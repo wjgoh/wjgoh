@@ -30,15 +30,23 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wjgoh/wjgoh/output/snake.svg" alt="Snake animation" />
+<details>
+  <summary>Github Stats ⚡</summary>
+  <div align="center">
+  
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wjgoh&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github stats"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjgoh&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs"></a>
+  
+  </div>
+</details>
 
 ###
 
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=wjgoh&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjgoh&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+<div align="center">
+<br clear="both">
+<img src="https://raw.githubusercontent.com/wjgoh/wjgoh/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+
