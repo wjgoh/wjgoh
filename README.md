@@ -40,8 +40,6 @@
   </div>
 </details>
 
-###
-
 <div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/wjgoh/wjgoh/output/snake.svg" alt="Snake animation" />
