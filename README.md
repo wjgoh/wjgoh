@@ -26,7 +26,7 @@
 
 ###
 
-[![](https://skillicons.dev/icons?i=vscode,pycharm&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ###
 
