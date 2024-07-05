@@ -2,6 +2,8 @@
 
 
 
+🗣️ 🗣️ wtf is a full stack developer 🗣️ 🗣️
+
 ###
 
 <br clear="both">
