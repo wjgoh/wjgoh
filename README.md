@@ -1,14 +1,12 @@
 <h2 align="left">Hi 👋! My name is wj and I'm an IT student, from Malaysia! </h2>
 
-
-
 🗣️ 🗣️ wtf is a full stack developer 🗣️ 🗣️
 
 ###
 
 <br clear="both">
 
-<h3>I know:</h3>
+<h3>Knowing them doesn't mean that I'm good at them: </h3>
 
 ###
 
