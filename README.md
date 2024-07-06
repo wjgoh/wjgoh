@@ -18,7 +18,7 @@
 
 ###
 
-[![](https://skillicons.dev/icons?i=cs,react,unity&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,react&theme=dark)](https://skillicons.dev)
 
 ###
 
