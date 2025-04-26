@@ -12,7 +12,7 @@ AI art of ANY form incl but not limited to Film Music Drawing are NOT the future
 
 ###
 
-[![](https://skillicons.dev/icons?i=html,css,python,js,c&theme=dark)]
+![](https://skillicons.dev/icons?i=html,css,python,js,c&theme=dark)
 
 ###
 
@@ -20,7 +20,7 @@ AI art of ANY form incl but not limited to Film Music Drawing are NOT the future
 
 ###
 
-[![](https://skillicons.dev/icons?i=cs,react&theme=dark)]
+![](https://skillicons.dev/icons?i=cs,react&theme=dark)
 
 ###
 
@@ -28,7 +28,7 @@ AI art of ANY form incl but not limited to Film Music Drawing are NOT the future
 
 ###
 
-[![](https://skillicons.dev/icons?i=vscode)]
+![](https://skillicons.dev/icons?i=vscode)
 
 ###
 
