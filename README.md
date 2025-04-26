@@ -2,6 +2,8 @@
 
 🗣️ 🗣️ wtf is a full stack developer 🗣️ 🗣️
 
+AI art of ANY form incl but not limited to Film Music Drawing are NOT the future. 
+
 ###
 
 <br clear="both">
