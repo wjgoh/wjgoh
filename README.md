@@ -3,7 +3,9 @@
 <p align="center">
 🗣️ 🗣️ wtf is a full stack developer 🗣️ 🗣️
 </p>
-AI art = 💩
+
+
+holding a strong opinion on fully AI-generated art
 
 ###
 
